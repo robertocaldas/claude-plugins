@@ -1,0 +1,17 @@
+{
+  "name": "robertocaldas",
+  "owner": { "name": "Roberto Caldas" },
+  "description": "Roberto Caldas's Claude Code plugins",
+  "plugins": [
+    {
+      "name": "identicon",
+      "source": { "source": "github", "repo": "robertocaldas/identicon" },
+      "description": "GitHub-style identicon of the current repo in a docked pane"
+    },
+    {
+      "name": "superreview",
+      "source": { "source": "github", "repo": "robertocaldas/superreview" },
+      "description": "Interactive change diagrams of code changes as a self-contained HTML page"
+    }
+  ]
+}
